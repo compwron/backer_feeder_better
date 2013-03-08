@@ -9,7 +9,6 @@ Phrasing ideas:
 
 "Can I talk to you about commented code for a minute?"
 "Okay..."
-"I think that commenting out code that you're removing was a really good ClearCase habit, because of the way it handles history."
-"But we're not using Clearcase anymore."
+"I think that commenting out code that you're removing was a really good ClearCase habit, because of the way it handles history. But..."
 
 

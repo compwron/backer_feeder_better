@@ -12,3 +12,7 @@ Phrasing ideas:
 "Can you help me understand why Foo is good here?"
 
 "Can you help me understand why Foo is better than Bar here?"
+
+"I think we're in the process of doing Foo, and I think the team is trying to standardize on Bar."
+
+"So I think we're about to do Foo and I think that Foo is great in some situations, but..."
