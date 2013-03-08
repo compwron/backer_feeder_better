@@ -3,6 +3,10 @@ Situation: (This is an abstract scenario to use for phrasing rather than content
 
 Phrasing ideas: 
 
+"I have a concern about Foo; I think that..."
+
+"I have a concern about using Foo here; I think that Bar fits better with our strategy. What do you think?"
+
 "Alice, can we talk about Foo for a minute?"
 
 "I really like Bar, and I think it's mutually exclusive with Foo."
