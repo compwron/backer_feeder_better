@@ -1,8 +1,9 @@
-feedback workshop possibilities
+feedback workshop style possibilities
 
-do sumeet's workshop, possibly with variations
-"find a person who can be on your right for the purpose of passing them a sheet of paper"
-draw a picture, give them one piece of positive
-how did giving them that positive feedback go?
-now give them constructive feedback
-how did that feedback giving go? did you feel awkward? Did they feel awkward?
+- scenario-style (feedback workshop style)
+- Sumeet's drawing-feedback workshop
+- lecture style on the theory or feedback (probably with powerpoints)
+- actual give-each-other-feedback (360-style: all spend 1 min writing feedback for person A, they review it aloud, repeat for person B..)
+- actual give-each-other-feedback (retro-style: everyone puts post-its on each person's section of board)
+- open discussion (one strategy at a time, we discuss one-sentence feedback strategy descriptions- one per slide)
+- bookclub-style (send out an article on feedback, everyone read it, then we put it on the board and discuss it)
