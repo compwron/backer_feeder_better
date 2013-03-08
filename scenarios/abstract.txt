@@ -1,0 +1,14 @@
+Situation: (This is an abstract scenario to use for phrasing rather than content suggestions) Alice keeps doing foo and you think that Bar would be better.
+
+
+Phrasing ideas: 
+
+"Alice, can we talk about Foo for a minute?"
+
+"I really like Bar, and I think it's mutually exclusive with Foo."
+
+"I see that we have Foo here. Can I ask why is that?"
+
+"Can you help me understand why Foo is good here?"
+
+"Can you help me understand why Foo is better than Bar here?"

@@ -1,0 +1,12 @@
+Situation: Alice seems to be ignoring your suggestions
+
+
+Phrasing ideas: 
+
+"I feel like you're not listening to me. What can I do to say more useful things?"
+
+"I might not be explaining this the best way- can you help me talk about it?"
+
+"Can we draw a diagram?"
+
+"I really think we should stop and talk about this before we code."

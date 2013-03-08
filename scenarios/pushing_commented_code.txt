@@ -1,0 +1,15 @@
+Situation: When pushing a story, Bob consistently pushes commented code. 
+
+
+Phrasing ideas: 
+
+"Do you mind if I delete this code? Do we need it for something?" 
+"Yeah, sure." 
+"Can you delete it before you push next time?"
+
+"Can I talk to you about commented code for a minute?"
+"Okay..."
+"I think that commenting out code that you're removing was a really good ClearCase habit, because of the way it handles history."
+"But we're not using Clearcase anymore."
+
+

@@ -1,0 +1,15 @@
+Situation: Alice is consistently writing very long methods
+
+
+Phrasing ideas: (Do not consider these all ideal!)
+
+"This method is way too long"
+
+"I'm concerned about this method; it's very long."
+
+"I'm not sure I'm confortable with adding more to this method; it's very long."
+
+"Alice, can we take a walk and talk about code style?"
+
+"Alice, can I send you some links on where I get my ideas about code?"
+
