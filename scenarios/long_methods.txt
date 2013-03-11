@@ -7,7 +7,7 @@ Phrasing ideas: (Do not consider these all ideal!)
 
 "I'm concerned about this method; it's very long."
 
-"I'm not sure I'm confortable with adding more to this method; it's very long."
+"I'm not sure I'm comfortable with adding more to this method; it's very long."
 
 "Alice, can we take a walk and talk about code style?"
 
