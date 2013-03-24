@@ -11,11 +11,11 @@ Phrasing ideas: (not all of these are ideal!)
 
 "I think we're lost track of what we were doing; how is this related?"
 
-"Can we talk about workshow for a minute? I work better when we do one thing at once."
+"Can we talk about workflow for a minute? I work better when we do one thing at once."
 
-"I want to write down the thing we're working on, on a post0it note, so when we get distracted we won't lose track of the goal."
+"I want to write down the thing we're working on, on a post-it note, so when we get distracted we won't lose track of the goal."
 
-"Can we talk about workshow for a minute? I'd prefer if you give me more warning before taking control of the keyboard; it's very startling."
+"Can we talk about workflow for a minute? I'd prefer if you give me more warning before taking control of the keyboard; it's very startling."
 
 "When we're pairing today, I'm going to try to let you know that I want to type by leaning forward and hovering my hands over the keyboard. Do you think that's okay?"
 

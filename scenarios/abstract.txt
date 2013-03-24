@@ -1,4 +1,4 @@
-Situation: (This is an abstract scenario to use for phrasing rather than content suggestions) Alice keeps doing foo and you think that Bar would be better.
+Situation: (This is an abstract scenario to use for phrasing rather than content suggestions) Alice keeps doing Foo and you think that Bar would be better.
 
 
 Phrasing ideas: 
