@@ -7,3 +7,9 @@ feedback workshop style possibilities
 - actual give-each-other-feedback (retro-style: everyone puts post-its on each person's section of board)
 - open discussion (one strategy at a time, we discuss one-sentence feedback strategy descriptions- one per slide)
 - bookclub-style (send out an article on feedback, everyone read it, then we put it on the board and discuss it)
+
+
+(stolen from Rich Feller's presentation) - 
+1. You (A) make a statement that you think your pair (B) will disagree with strongly
+2. pair (B): draw out (A), try to get them to explain why they think this
+(see the rest of the workshop materials)
